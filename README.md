@@ -1,1 +1,1 @@
-Hi! My name is Tanner McDaniel and I am a student learning to code for the very first time. 
+Hi! My name is Tanner McDaniel and I am a Full stack web developer. I learned to code at Awesome Inc's web developer bootcamp in the Fall of 2023. I am proficient in React, Next.js, Javascript, HTML, CSS, Python, FastAPI, SQL. I love to build and create projects so contact me and let's build something awesome together!
